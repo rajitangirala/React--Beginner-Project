@@ -1,0 +1,79 @@
+[
+    {
+    "title": "Sweat shirt",
+    "id": "1",
+    "description": "Sweat shirt with leather suitable for cooler temperature",
+    "price": "20.00",
+    "image":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F51%2F09%2F5109741f17d1cf31215985fcd9c30ac1e49d24f8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+    },
+    {
+    "title": "Black Suit",
+    "id": "2",
+    "description": "Suit with silk suitable for weddings and ocasions",
+    "price": "22.00",
+    "image":"https://imagescdn.thecollective.in/img/app/product/4/492233-3612495.jpg"
+    },
+    {
+        "title": "Jacket",
+        "id": "3",
+        "description": "Hard jacket with woolen suitable for trecking and travelling",
+        "price": "22.00",
+        "image":"https://cdn3.getprintbox.com/pbx2-pbww/media/productimage/e925de22-44e0-4276-bb92-0b4101f5f834/Blank%20Jacket_thumb_900x900?mt=1583407059.733"
+    },
+    {
+        "title": "White shirt",
+        "id": "4",
+        "description": "Hard jacket with woolen suitable for trecking and travelling",
+        "price": "42.00",
+        "image":"https://www.seasonbazaar.com/wp-content/uploads/2019/08/Laamei-Men-s-Long-Sleeve-Casual-Shirts-Fashion-Rose-Flower-3D-Print-Floral-Shirt-Turn-down-6.jpg"
+    },
+    {
+        "title": "Suit",
+        "id": "5",
+        "description": "Suit with silk suitable for weddings and ocasions",
+        "price": "18.00",
+        "image":"https://s7ap1.scene7.com/is/image/adityabirlafashion/PE_M_HB_WeddingStore_02"
+    },
+    {
+        "title": "T-shirt",
+        "id": "6",
+        "description": "T-shirt suitable for trecking and travelling",
+        "price": "30.00",
+        "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/29949841/2024/7/1/b5dc84d1-e5bd-43f2-92c2-415d412cef8c1719837017819-FCUK-Men-Tshirts-3941719837017309-1.jpg"
+    },
+    {
+        "title": "Gas Jeans",
+        "id": "7",
+        "description": "Jeans with leather suitable for travelling and styling",
+        "price": "22.00",
+        "image":"https://cdn.pixelspray.io/v2/black-bread-289bfa/iix9pB/wrkr/t.resize(h:600,w:510)/data/gas/19sep2024/000000410499977008_MODEL.jpg"
+    },
+    {
+        "title": "Grey Jacket",
+        "id": "8",
+        "description": "Hard Grey jacket with woolen suitable for trecking and travelling",
+        "price": "32.00",
+        "image":"https://hollandscountryclothing.co.uk/cdn/shop/files/Alan-Paine-Mossley-Mens-Windstopper-Gilet_c3fc37ab-3b7d-4bea-b356-2ab2e3898acc.jpg?v=1726056460&width=2000"
+    },
+    {
+        "title": "Jack n Jones",
+        "id": "9",
+        "description": "Hard jacket with woolen suitable for trecking and travelling",
+        "price": "42.00",
+        "image":"https://images.bestsellerclothing.in/data/JJ/08-oct-2024/139444107_g0.jpg?width=415&height=550&mode=fill&fill=blur&format=auto"
+    },
+     {
+        "title": "Pink Teees",
+        "id": "10",
+        "description": "Suit with silk suitable for weddings and ocasions",
+        "price": "18.00",
+        "image":"https://img.tatacliq.com/images/i22//437Wx649H/MP000000025087250_437Wx649H_202501211846273.jpeg"
+     },
+    {
+        "title": "Scotts Menwear",
+        "id": "11",
+        "description": "T-shirt suitable for trecking and travelling",
+        "price": "30.00",
+        "image":"https://cdn.media.amplience.net/i/frasersdev/scotts-hp-c1-120424-d?fmt=auto&upscale=false&w=560&h=560&sm=c&$h-ttl$"
+     }
+]
